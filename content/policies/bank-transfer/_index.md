@@ -8,7 +8,7 @@ base_url: ""
 {{< start-content >}}
 To make payment by transferring funds to our bank account:
 
-1. Follow the online checkout process until the last step and then enter the details under PO name and number you would like to add to the invoice (this part is optional and is for your reference only).
+1. Follow the [online checkout process](https://purchase.conholdate.com/buy) until the last step and then enter the details under PO name and number you would like to add to the invoice (this part is optional and is for your reference only).
 2. Click the green arrow button to place the order.
 3. On the next page you will have the opportunity to download the invoice. Refer to the second page of the invoice for our bank account number and instructions for making payment via wire transfer.
 

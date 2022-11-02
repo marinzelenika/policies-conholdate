@@ -6,8 +6,8 @@ base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}}
-We care about our customers and are always looking for ways to offer them the best value for money. One method we use is a discount system. The online purchase system has two automatic discounts: products suites and quantity of product. We are also open to negotiating discounts for customer who are willing to share their experience of using Conholdate products.
-
+We care about our customers and are always looking for ways to offer them the best value for money. One method we use is a discount system. The online purchase system has two automatic discounts: products suites and quantity of product. We are also open to negotiating discounts for customer who are willing to share their experience of using Conholdate products.  
+&nbsp;  
 ##### Automatic Discounts
 ###### Conholdate.Total
 Conholdate.Total gives you all products from Aspose.Total and GroupDocs.Total in one cost-effective package. Each Total package includes the entire product line from each website.  When you buy Conholdate.Total you're licensed not just for the products we currently have for each website on that particular platform but also for any new products we bring out (with a valid [subscription](/subscriptions)).

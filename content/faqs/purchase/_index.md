@@ -6,31 +6,31 @@ base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}}
-1. [Can I evaluate Conholdate products prior to purchasing?]()
-2. [Can I receive technical support when I'm evaluating a product?]()
-3. [How can I request a quote?]()
-4. [Can I request a quote or invoice in a currency other than US Dollars?]()
-5. [Can I receive the license early before paying?]()
-6. [Are there any applicable taxes?]()
-7. [I require your W-9 Form, can you send it?]()
-8. [Are Conholdate products FIPS compliant?]()
-9. [I have been advised that we should withhold some of the payment to you for tax purposes, is that acceptable?]()
-10. [Can I get a discount?]()
-11. [Does Conholdate have a consultant team who can assist with on-site training, implementation and/or software customizations?]()
-12. [Does Conholdate do product demonstrations?]()
-13. [After an order has been placed, how and when can the license key be accessed?]()
-14. [Where can I download my license?]()
-15. [Where can I download the product?]()
-16. [How do I install the product?]()
-17. [If I already installed the product before purchase, do I need to reinstall the software?]()
-18. [Which payment methods are accepted?]()
-19. [Do you include tax in your prices listed on the website or quotes?]()
-20. [I'm based in Australia, why is GST added to an invoice that is in USD currency?]()
-21. [Who else uses Conholdate products?]()
-22. [Are Conholdate products HIPAA compliant?]()
-23. [Does Conholdate offer software escrow services?]()
-24. [Can you sign an NDA or any other custom agreement?]()
-25. [Do you have any testimonials or success stories from satisfied customers?]()  
+1. [Can I evaluate Conholdate products prior to purchasing?](/faqs/purchase#1)
+2. [Can I receive technical support when I'm evaluating a product?](/faqs/purchase#2)
+3. [How can I request a quote?](/faqs/purchase#3)
+4. [Can I request a quote or invoice in a currency other than US Dollars?](/faqs/purchase#4)
+5. [Can I receive the license early before paying?](/faqs/purchase#5)
+6. [Are there any applicable taxes?](/faqs/purchase#6)
+7. [I require your W-9 Form, can you send it?](/faqs/purchase#7)
+8. [Are Conholdate products FIPS compliant?](/faqs/purchase#8)
+9. [I have been advised that we should withhold some of the payment to you for tax purposes, is that acceptable?](/faqs/purchase#9)
+10. [Can I get a discount?](/faqs/purchase#10)
+11. [Does Conholdate have a consultant team who can assist with on-site training, implementation and/or software customizations?](/faqs/purchase#11)
+12. [Does Conholdate do product demonstrations?](/faqs/purchase#12)
+13. [After an order has been placed, how and when can the license key be accessed?](/faqs/purchase#13)
+14. [Where can I download my license?](/faqs/purchase#14)
+15. [Where can I download the product?](/faqs/purchase#15)
+16. [How do I install the product?](/faqs/purchase#16)
+17. [If I already installed the product before purchase, do I need to reinstall the software?](/faqs/purchase#17)
+18. [Which payment methods are accepted?](/faqs/purchase#18)
+19. [Do you include tax in your prices listed on the website or quotes?](/faqs/purchase#19)
+20. [I'm based in Australia, why is GST added to an invoice that is in USD currency?](/faqs/purchase#20)
+21. [Who else uses Conholdate products?](/faqs/purchase#21)
+22. [Are Conholdate products HIPAA compliant?](/faqs/purchase#22)
+23. [Does Conholdate offer software escrow services?](/faqs/purchase#23)
+24. [Can you sign an NDA or any other custom agreement?](/faqs/purchase#24)
+25. [Do you have any testimonials or success stories from satisfied customers?](/faqs/purchase#25)  
 
 &nbsp;  
 ##### **1. Can I evaluate Conholdate products prior to purchasing?**
@@ -79,7 +79,7 @@ Australian dollar quotes and invoices are calculated using the current currency 
 * Washington (WA)
 * Wisconsin (WI)
  
-
+&nbsp;  
 Certain customers may be exempt from sales tax.  You can learn more about sales tax issues on the [Taxes Policy page](/policies/taxes).
 
 &nbsp;  
@@ -107,30 +107,59 @@ Certain customers may be exempt from sales tax.  You can learn more about sales 
 {{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
 
 &nbsp;  
-##### **12. Does Conholdate do product demonstrations?**
-{{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
+##### **13. After an order has been placed, how and when can the license key be accessed?**
+{{< faqs 14 >}} Access to the license(s) is provided to you only after the successful receipt and processing of your payment. Once payment is received, a confirmation email will be sent that includes your license and instructions on how to apply it.
 
 &nbsp;  
-##### **12. Does Conholdate do product demonstrations?**
-{{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
+##### **14. Where can I download my license?**
+{{< faqs 15 >}} Once purchased you can also download your license from the website when logged into to your account. [Learn more](/policies/download-license).
 
 &nbsp;  
-##### **12. Does Conholdate do product demonstrations?**
-{{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
+##### **15. Where can I download the product?**
+{{< faqs 16 >}} All products are available to [download from the website](https://releases.conholdate.com/). We do not send physical copies of our software by mail. 
 
 &nbsp;  
-##### **12. Does Conholdate do product demonstrations?**
-{{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
+##### **16. How do I install the product?**
+{{< faqs 17 >}} Refer to the [documentation](https://docs.conholdate.com/) of the product you purchased for installation steps
 
 &nbsp;  
-##### **12. Does Conholdate do product demonstrations?**
-{{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
+##### **17. If I already installed the product before purchase, do I need to reinstall the software?**
+{{< faqs 18 >}} No, the binaries are the same, it is the license key that is applied which makes the software run in "production" mode without any limitations.
 
 &nbsp;  
-##### **12. Does Conholdate do product demonstrations?**
-{{< faqs 13 >}} No, our focus is on our APIs and making the most functional and stable products possible. We do offer fully functional and free trials in the form of a [temporary license](/temporary-license) so you can test out the product for yourself. 
+##### **18. Which payment methods are accepted?**
+{{< faqs 19 >}} Conholdate accepts payment by credit card or wire transfer. [Read more about our payment methods](/policies/payment-methods).
 
+&nbsp;  
+##### **19. Do you include tax in your prices listed on the website or quotes?**
+{{< faqs 20 >}} As Conholdate is a division of Aspose Pty Ltd which is an Australian company, only GST is applied to customers who are purchasing from Australia. Our website does not display GST inclusive pricing, however when you request an invoice or quote it will contain the GST component.
 
+&nbsp;  
+##### **20. I'm based in Australia, why is GST added to an invoice that is in USD currency?**
+{{< faqs 21 >}} Conholdate is a registered Australian business however as a company with customers worldwide we prefer to do business in US Dollars (USD). Since we are a GST registered business we must pay GST on any goods or service provided to an Australian entity and according to ruling GSTR 2001/2 by the Australian Taxation Office, the calculation of tax on a transaction in a foreign currency is perfectly acceptable. We have been operating in this way for many years with many Australian customers without any problems. Learn more about [tax issues](/policies/taxes).
+
+&nbsp;  
+##### **21. Who else uses Conholdate products?**
+{{< faqs 22 >}} [Here is just a few of our customers from around the world](https://about.conholdate.com/customers/). As you can see the long lists of customers, many different types of businesses can benefit from Conholdate products.
+
+&nbsp;  
+##### **22. Are Conholdate products HIPAA compliant?**
+{{< faqs 23 >}} No. Conholdate is located in Australia, and we do not have staff dedicated to ensuring HIPAA compliance. If you are using a Conholdate product in your application, and the application must be HIPAA compliant, then it is your responsibility to ensure that Conholdate's APIs are used in a compliant manner.
+
+&nbsp;  
+##### **23. Does Conholdate offer software escrow services?**
+{{< faqs 24 >}} Yes, we do. [Read about our escrow services to find out more](/policies/software-escrow).
+
+&nbsp;  
+##### **24. Can you sign an NDA or any other custom agreement?**
+{{< faqs 25 >}} Head to the company section of the website to read about our [Custom Agreements Policy](https://about.conholdate.com/legal/custom-agreements/).
+
+&nbsp;  
+##### **25. Do you have any testimonials or success stories from satisfied customers?**
+{{< faqs 26 >}} Yes, head to [Success Stories](https://about.conholdate.com/customers/success-stories/) which is in the company section of the website to learn about real customers use Conholdate products to fulfill their business needs.
+
+&nbsp;  
+&nbsp;  
 
 {{< questions-start >}}
 ##### Questions?

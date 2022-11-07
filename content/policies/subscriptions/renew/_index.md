@@ -5,7 +5,7 @@ description: "Information about how and when to renew a subscription."
 base_url: ""
 ---
 {{< rightPanel >}}
-{{< start-content >}} 
+{{< start-content >}}  
 When you buy a license you get a full year's subscription to software updates. When your subscription nears its end, we send you an email to remind you to renew your subscription. Without a subscription you can still use the product and get support, but you do not get new features or fixes. If you have a problem that requires a hot fix but do not have a current subscription, you will have to renew before you can benefit from the fix.   
 
 

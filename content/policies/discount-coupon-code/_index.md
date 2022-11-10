@@ -15,7 +15,7 @@ A discount coupon code is variable length code consisting of alpha-numeric chara
    
 **Tip**: Copy and paste the code to avoid any typing mistakes.
 
-Discounts are only issued under limited circumstances, read more [about discounts](/discounts).
+Discounts are only issued under limited circumstances, read more [about discounts](/policies/discounts).
 
 {{< questions-start >}}
 ##### Questions?

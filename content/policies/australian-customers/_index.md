@@ -6,9 +6,11 @@ base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}}
-##### GST and ABN
-Find out more about GST and ABN on our [Tax Issues page](/taxes). This explains why we have to add 10% GST to Australian customers and lists our ABN.
-##### Bank Account and Company Address
+##### **GST and ABN**
+Find out more about GST and ABN on our [Tax Issues page](/policies/taxes). This explains why we have to add 10% GST to Australian customers and lists our ABN.  
+
+&nbsp;  
+##### **Bank Account and Company Address**
 Our bank account is provided on the invoice sent to you once you order a product. Our company address can be found on the [Contact page](https://about.conholdate.com/contact/). Please be aware of our [paperless policy](https://about.conholdate.com/legal/paperless-policy/).
 
 {{< questions-start >}}

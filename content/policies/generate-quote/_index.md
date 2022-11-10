@@ -6,7 +6,7 @@ base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}}
-Sometimes, our customers ask us to send them a quote. Our pricing is public and all our customers get the same pricing, except for those customers who are eligible for [discounts](/discounts).
+Sometimes, our customers ask us to send them a quote. Our pricing is public and all our customers get the same pricing, except for those customers who are eligible for [discounts](/policies/discounts).
 
 If you want a quote, use the purchase system generate one. The quote can be emailed as a PDF or downloaded, and it is stored in the system for reference.
 

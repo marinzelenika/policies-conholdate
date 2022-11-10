@@ -16,9 +16,9 @@ The details for that order are displayed.
 4. Click **Download License** at the bottom of the page.
 A dialogue appears to allow you to select where to save the license.
 
-To learn how to set the license, please see [the licensing section of the documentation](/use-license).
+To learn how to set the license, please see [the licensing section of the documentation](/policies/use-license).
 
-**Important**: you have to be logged in to download. If you have not logged in, or if you log in with an account other than the one that bought the license, you may see a blank order list and not be able to download the license. If you want to change the ownership from the purchaser's account to your account, please refer to how to change ownership of an order by [transferring a license](/transfer-license-ownership).
+**Important**: you have to be logged in to download. If you have not logged in, or if you log in with an account other than the one that bought the license, you may see a blank order list and not be able to download the license. If you want to change the ownership from the purchaser's account to your account, please refer to how to change ownership of an order by [transferring a license](/policies/transfer-license-ownership).
 
 {{< questions-start >}}
 ##### Questions?

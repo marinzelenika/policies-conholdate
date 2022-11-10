@@ -10,7 +10,7 @@ Historically checks have played an important role in commerce.  They have acted 
 
 Being located in Australia, Conholdate experiences other problems related to checks.  Check payments from out of country can take between two to three weeks to arrive.  That leads to delays with license file delivery, which can be frustrating for our clients.  In cases where mail is lost or misdirected it may take several conversations, and months of time to get things sorted out. 
 
-Due to the above reasons, and as part of our [paperless initiative](https://about.conholdate.com/legal/paperless-policy/), Conholdate will no longer accept payments by check.  We do accept payments by [credit card or wire transfer](/payment-methods).  
+Due to the above reasons, and as part of our [paperless initiative](https://about.conholdate.com/legal/paperless-policy/), Conholdate will no longer accept payments by check.  We do accept payments by [credit card or wire transfer](/policies/payment-methods).  
 
 {{< questions-start >}}
 ##### **Questions?**

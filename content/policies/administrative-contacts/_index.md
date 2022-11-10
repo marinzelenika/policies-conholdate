@@ -6,7 +6,7 @@ base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}}
-##### How to add additional billing contacts
+##### **How to add additional billing contacts**
 When [placing an order](https://purchase.conholdate.com/buy), at the contact details page there is an input box for you to enter administrative emails. To enter multiple emails separate each one with a semicolon. Invoices and renewal reminders are sent automatically to these email addresses even if they don't have a Conholdate account.
 
 

@@ -23,7 +23,7 @@ It does not support distribution of end user software to third parties, public f
 
 This license does not support creating end user software like a development library with an API or SDK, only the Metered License types support API usage. Only the Metered License types support API usage.
 
-[Read the License FAQ for answers to your questions and scenarios](https://purchase.conholdate.com/faqs/licensing).
+[Read the License FAQ for answers to your questions and scenarios](/faqs/licensing).
 
 &nbsp;  
 ##### **Developer OEM License**
@@ -33,7 +33,7 @@ A Developer OEM License allows One developer to create an unlimited number of en
 
 It allows distribution of end user software to third parties, public facing websites/applications, extranets, multi-site intranets or SaaS project usage scenarios. This license does not support creating end user software like a development library with an API or SDK, only the Metered License types support API usage.
 
-[Read the License FAQ for answers to your questions and scenarios](https://purchase.conholdate.com/faqs/licensing).
+[Read the License FAQ for answers to your questions and scenarios](/faqs/licensing).
 
 &nbsp;  
 ##### **Site Small Business License**
@@ -45,7 +45,7 @@ It does not support distribution of end user software to third parties, public f
 
 This license does not support creating end user software like a development library with an API or SDK, only the Metered License types support API usage.
 
-[Read the License FAQ for answers to your questions and scenarios](https://purchase.conholdate.com/faqs/licensing).
+[Read the License FAQ for answers to your questions and scenarios](/faqs/licensing).
 
 &nbsp;  
 ##### **Site OEM License**
@@ -55,7 +55,7 @@ A Site OEM License allows Ten developers to create an unlimited number of end us
 
 It allows distribution of end user software to third parties, public facing websites/applications, extranets, multi-site intranets or SaaS project usage scenarios. This license does not support creating end user software like a development library with an API or SDK, only the Metered License types support API usage.
 
-[Read the License FAQ for answers to your questions and scenarios](https://purchase.conholdate.com/faqs/licensing).
+[Read the License FAQ for answers to your questions and scenarios](/faqs/licensing).
 
 &nbsp;  
 ##### **Metered Small Business License**
@@ -65,7 +65,7 @@ A Metered Small Business license allows an unlimited number of developers from y
 
 It does not support public facing web sites/applications, extranets or SaaS project usage scenarios. Only OEM Licenses support this form of distribution. It can support multi-site intranet usage and creating end user software that are used internally in a development library with an API or SDK
 
-[Read the License FAQ for answers to your questions and scenarios](https://purchase.conholdate.com/faqs/licensing).
+[Read the License FAQ for answers to your questions and scenarios](/faqs/licensing).
 
 &nbsp;  
 ##### **Metered OEM License**
@@ -75,7 +75,7 @@ A Metered OEM license allows an unlimited number of developers from your organis
 
 It supports public facing web sites/applications, extranets or SaaS project usage scenarios and creating end user software that are used in a development library with an API or SDK
 
-[Read the License FAQ for answers to your questions and scenarios](https://purchase.conholdate.com/faqs/licensing).  
+[Read the License FAQ for answers to your questions and scenarios](/faqs/licensing).  
 
 {{< questions-start >}}
 ##### Questions?

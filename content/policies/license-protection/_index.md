@@ -17,7 +17,7 @@ If you are concerned that a license will be leaked or stolen, we can help you pr
 
 Refer to [Protecting your License File](https://purchase.conholdate.com/orders/protecting-your-license-file) for information on how to protect your .NET, Java or Android license. **To access the page, you need to be logged in and have at least one paid order**.
 
-If you have questions about our licenses, read the [Licensing FAQ](https://purchase.conholdate.com/faqs/licensing).
+If you have questions about our licenses, read the [Licensing FAQ](/faqs/licensing).
 
   
 ##### **Suspecting License Misuse?**
